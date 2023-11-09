@@ -32,7 +32,7 @@ Go to the project directory
   cd my-project
 ```
 
-Install requirements.txt
+Install the required libraries using requirements.txt
 
 Change the intents.json according to your requirements
 

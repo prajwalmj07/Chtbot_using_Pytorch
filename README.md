@@ -7,6 +7,8 @@ This particular chatbot was used in a SmartSpend website which focuses on AutoIn
 
 ![App Screenshot](https://spgon.com/wp-content/uploads/2019/07/How-chatbot-works-600x387.jpg)
 
+It uses Flask to host this chatbot on a local host 
+
 This Repository also contains the files required to host this on a Render free web hosting service.
 
 ## Screenshot

@@ -8,15 +8,15 @@ body {
     font-family: 'Nunito', sans-serif;
     font-weight: 400;
     font-size: 100%;
-    background: #F1F1F1;
+    background: #E6E6FA;
 }
 
 *, html {
-    --primaryGradient: linear-gradient(93.12deg, #581B98 0.52%, #9C1DE7 100%);
-    --secondaryGradient: linear-gradient(268.91deg, #581B98 -2.14%, #9C1DE7 99.69%);
+    --primaryGradient: linear-gradient(93.12deg, #0080bf 0.52%, #59c2ff 100%);
+    --secondaryGradient: linear-gradient(268.91deg, #0080bf -2.14%, #59c2ff 99.69%);
     --primaryBoxShadow: 0px 10px 15px rgba(0, 0, 0, 0.1);
     --secondaryBoxShadow: 0px -10px 15px rgba(0, 0, 0, 0.1);
-    --primary: #581B98;
+    --primary: #59c2ff;
 }
 
 /* CHATBOX
@@ -135,6 +135,7 @@ body {
 /* Messages */
 .chatbox__messages {
     padding: 0 20px;
+    color: black;
 }
 
 .messages__item {
@@ -188,8 +189,8 @@ body {
 .chatbox__button button,
 .chatbox__button button:focus,
 .chatbox__button button:visited {
-    padding: 10px;
-    background: grey;
+
+    background: white;
     border: none;
     outline: none;
     border-top-left-radius: 50px;

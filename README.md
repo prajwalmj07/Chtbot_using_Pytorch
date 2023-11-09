@@ -23,14 +23,9 @@ To deploy this project run
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/prajwalmj07/chtbot
 ```
-
-Go to the project directory
-
-```bash
-  cd my-project
-```
+Use Pycharm to run this locally
 
 Install the required libraries using requirements.txt
 

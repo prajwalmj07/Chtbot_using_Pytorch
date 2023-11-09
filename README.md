@@ -29,7 +29,7 @@ Clone the project
 ```
 Use Pycharm to run this locally
 
-Install the required libraries using requirements.txt
+Install the required libraries using build.sh
 
 Change the intents.json according to your requirements
 

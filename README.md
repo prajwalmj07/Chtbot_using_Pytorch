@@ -1,5 +1,5 @@
 # chtbot
-Chat-Bot is a machine-learning based conversational dialog engine build in Python which makes it possible to generate responses based on collections of known conversations.
+Chat-Bot is a machine-learning based conversational dialog engine built in Python which makes it possible to generate responses based on collections of known conversations.
 
 This particular chatbot was used in a SmartSpend website which focuses on AutoInvestments, PeertoPeerLending, etc.
 

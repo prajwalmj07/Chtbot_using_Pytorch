@@ -35,7 +35,7 @@ Use Pycharm to run this locally
 
 Install the required libraries using build.sh
 
-Change the intents.json according to your requirements
+Change the intents.json according to your requirements.
 
 Train the model once on your computer 
 

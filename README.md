@@ -16,13 +16,7 @@ This Repository also contains the files required to host this on a Render web ho
 
 ![App Screenshot](https://github.com/prajwalmj07/chtbot/blob/main/static/images/screenshot.png)
 
-## Deployment
 
-To deploy this project run
-
-```bash
-  npm run deploy
-```
 
 ## Run Locally
 
